@@ -5,8 +5,8 @@
 #' An object of the class `Rasch' has the following slots:
 #' \itemize{
 #' \item \code{name} The name of the test taker
-#' \item \code{a} A vector of question-item parameters
-#' \item \code{y} A vector of answers for the respondent
+#' \item \code{a} A vector of question-item parameters. Difficulty parameters
+#' \item \code{y} A vector of answers for the respondent. Observed person's answers 
 #' }
 #'
 #' @author Lim
